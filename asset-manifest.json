@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fcc-d3-scatter-plot/static/css/main.9f6e4d72.chunk.css",
+    "main.js": "/fcc-d3-scatter-plot/static/js/main.e39a8652.chunk.js",
+    "main.js.map": "/fcc-d3-scatter-plot/static/js/main.e39a8652.chunk.js.map",
+    "runtime-main.js": "/fcc-d3-scatter-plot/static/js/runtime-main.5f54307a.js",
+    "runtime-main.js.map": "/fcc-d3-scatter-plot/static/js/runtime-main.5f54307a.js.map",
+    "static/js/2.49f34088.chunk.js": "/fcc-d3-scatter-plot/static/js/2.49f34088.chunk.js",
+    "static/js/2.49f34088.chunk.js.map": "/fcc-d3-scatter-plot/static/js/2.49f34088.chunk.js.map",
+    "index.html": "/fcc-d3-scatter-plot/index.html",
+    "precache-manifest.48836dc28de01bd52987ed697a519a5c.js": "/fcc-d3-scatter-plot/precache-manifest.48836dc28de01bd52987ed697a519a5c.js",
+    "service-worker.js": "/fcc-d3-scatter-plot/service-worker.js",
+    "static/css/main.9f6e4d72.chunk.css.map": "/fcc-d3-scatter-plot/static/css/main.9f6e4d72.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f54307a.js",
+    "static/js/2.49f34088.chunk.js",
+    "static/css/main.9f6e4d72.chunk.css",
+    "static/js/main.e39a8652.chunk.js"
+  ]
+}
